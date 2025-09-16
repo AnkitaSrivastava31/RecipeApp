@@ -1,0 +1,9 @@
+com\example\backendjava\model\Recipe.class
+com\example\backendjava\service\RecipeService$RecipesResponse.class
+com\example\backendjava\config\AppConfig.class
+com\example\backendjava\BackendjavaApplication.class
+com\example\backendjava\config\AppConfig$1.class
+com\example\backendjava\controller\RecipeController.class
+com\example\backendjava\repository\RecipeRepository.class
+com\example\backendjava\config\GlobalExceptionHandler.class
+com\example\backendjava\service\RecipeService.class
